@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm Sarah: a back-end programmer looking for my next opportunity! (Has a better ring than unemployed, doesn't it? 🤗) Previously undergraduate researcher at Berkeley Architecture Lab and SWE intern at MongoDB! 
+I'm Sarah: a back-end programmer looking for my next opportunity! (Has a better ring than unemployed, doesn't it? 🤗) Previously undergraduate researcher at Berkeley Architecture Lab and SWE intern at MongoDB! [Find out more on LinkedIn](https://www.linkedin.com/in/sarah-zhou-ab246969/)
 #### ❤️ My Passions 
 Using technology to improve communication by getting people the resources they need when they need them.
 
