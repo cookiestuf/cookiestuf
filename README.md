@@ -27,3 +27,6 @@ After studying abroad, I can now speak/write/understand Spanish at an intermedia
 The only person you should try to be better than is who you were yesterday.
 
 <img src="https://media.giphy.com/media/LW5vBvAb48Oe9OoEKT/giphy.gif"/>
+
+[Link](https://github.com/cookiestuf/language-context-bot)
+[Link with Demo](https://devpost.com/software/sharebear/)
